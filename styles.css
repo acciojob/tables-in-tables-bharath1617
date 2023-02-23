@@ -1,2 +1,12 @@
 
+.nested{
+	border:1px solid black;
+}
+.right1,.left1{
+	border: 1px solid black;
+}
+td, th{
+	border:1px solid black;
+}
+
 /* Your CSS Code here. */
