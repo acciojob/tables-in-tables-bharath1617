@@ -1,12 +1,17 @@
-
-.nested{
+table, th, tr, td{
 	border:1px solid black;
 }
-.right1,.left1{
-	border: 1px solid black;
+.Data1{
+	width:250px;
+	height:200px;
 }
-td, th{
-	border:1px solid black;
+.Row1{
+	text-align:center;
 }
-
+.tab1{
+	width:250px;
+}
+.Data2{
+	height:100px;
+}
 /* Your CSS Code here. */
